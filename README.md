@@ -1,2 +1,2 @@
 # EEGDataset
-A large-scale multi-session EEG dataset for modeling human visual object recognition
+A multi-subject and multi-session EEG dataset for modelling human visual object recognition
